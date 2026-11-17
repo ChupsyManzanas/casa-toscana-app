@@ -1,0 +1,1 @@
+import{R as n}from"./index-Sxxu_09I.js";import{s}from"./shallow-B3FaPhyI.js";function a(e){const r=n.useRef(void 0);return o=>{const t=e(o);return s(r.current,t)?r.current:r.current=t}}export{a as u};

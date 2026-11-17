@@ -1,0 +1,1888 @@
+{
+ "name": "Casa · T03",
+ "source": "plano vectorial del promotor (p.46)",
+ "units": "m",
+ "axes": "x = este en el plano, y = hacia abajo en el plano (z en 3D)",
+ "scale": {
+  "pdf_pt_per_m": 28.344,
+  "ratio": "1:100",
+  "calibration": "escala gráfica 0-5 m"
+ },
+ "origin_offset_from_pdf_m": [
+  3.93,
+  5.78
+ ],
+ "ceiling_height_m": 2.5,
+ "ceiling_height_note": "no consta en documentación; editable",
+ "rooms": [
+  {
+   "name": "Cocina",
+   "area_m2": 10.31,
+   "outdoor": false,
+   "polygon": [
+    [
+     0.9,
+     0.32
+    ],
+    [
+     0.9,
+     0.558
+    ],
+    [
+     0.8,
+     0.658
+    ],
+    [
+     0.288,
+     0.658
+    ],
+    [
+     0.288,
+     4.588
+    ],
+    [
+     0.8,
+     4.588
+    ],
+    [
+     0.9,
+     4.688
+    ],
+    [
+     0.9,
+     5.13
+    ],
+    [
+     2.61,
+     5.14
+    ],
+    [
+     2.61,
+     0.32
+    ]
+   ],
+   "note": "hornacina ajustada a 3,930 m según plano acotado de Oak Studio (Premium C2)"
+  },
+  {
+   "name": "Tendedero",
+   "area_m2": 3.05,
+   "outdoor": false,
+   "polygon": [
+    [
+     2.88,
+     0.3
+    ],
+    [
+     2.88,
+     2.05
+    ],
+    [
+     4.61,
+     2.05
+    ],
+    [
+     4.61,
+     0.31
+    ]
+   ]
+  },
+  {
+   "name": "Baño 2",
+   "area_m2": 3.94,
+   "outdoor": false,
+   "polygon": [
+    [
+     3.2,
+     2.64
+    ],
+    [
+     3.2,
+     5.13
+    ],
+    [
+     4.78,
+     5.12
+    ],
+    [
+     4.78,
+     2.64
+    ]
+   ]
+  },
+  {
+   "name": "Dormitorio 1",
+   "area_m2": 9.09,
+   "outdoor": false,
+   "polygon": [
+    [
+     4.89,
+     1.31
+    ],
+    [
+     4.89,
+     4.48
+    ],
+    [
+     4.95,
+     4.54
+    ],
+    [
+     4.89,
+     4.6
+    ],
+    [
+     4.89,
+     5.13
+    ],
+    [
+     6.39,
+     5.13
+    ],
+    [
+     6.44,
+     5.08
+    ],
+    [
+     6.5,
+     5.13
+    ],
+    [
+     7.26,
+     5.11
+    ],
+    [
+     7.25,
+     4.58
+    ],
+    [
+     7.35,
+     4.48
+    ],
+    [
+     7.39,
+     4.48
+    ],
+    [
+     7.39,
+     1.71
+    ],
+    [
+     7.2,
+     1.71
+    ],
+    [
+     7.1,
+     1.61
+    ],
+    [
+     7.1,
+     1.32
+    ]
+   ]
+  },
+  {
+   "name": "Dormitorio 2",
+   "area_m2": 9.25,
+   "outdoor": false,
+   "polygon": [
+    [
+     7.69,
+     1.31
+    ],
+    [
+     7.69,
+     1.61
+    ],
+    [
+     7.59,
+     1.71
+    ],
+    [
+     7.49,
+     1.71
+    ],
+    [
+     7.49,
+     4.48
+    ],
+    [
+     7.53,
+     4.48
+    ],
+    [
+     7.63,
+     4.58
+    ],
+    [
+     7.62,
+     5.12
+    ],
+    [
+     8.38,
+     5.13
+    ],
+    [
+     8.44,
+     5.08
+    ],
+    [
+     8.49,
+     5.13
+    ],
+    [
+     10.02,
+     5.13
+    ],
+    [
+     10.02,
+     4.6
+    ],
+    [
+     9.97,
+     4.55
+    ],
+    [
+     10.02,
+     4.49
+    ],
+    [
+     10.02,
+     1.31
+    ]
+   ]
+  },
+  {
+   "name": "Dormitorio ppal.",
+   "area_m2": 14.92,
+   "outdoor": false,
+   "polygon": [
+    [
+     9.26,
+     6.12
+    ],
+    [
+     10.125,
+     6.125
+    ],
+    [
+     10.22,
+     6.222
+    ],
+    [
+     10.2,
+     6.77
+    ],
+    [
+     11.02,
+     6.77
+    ],
+    [
+     11.02,
+     6.24
+    ],
+    [
+     10.972,
+     6.19
+    ],
+    [
+     11.02,
+     6.13
+    ],
+    [
+     11.01,
+     5.22
+    ],
+    [
+     11.021,
+     5.15
+    ],
+    [
+     11.11,
+     5.06
+    ],
+    [
+     11.11,
+     4.04
+    ],
+    [
+     11.02,
+     3.948
+    ],
+    [
+     11.021,
+     3.39
+    ],
+    [
+     11.122,
+     3.29
+    ],
+    [
+     12.74,
+     3.29
+    ],
+    [
+     12.74,
+     0.67
+    ],
+    [
+     12.469,
+     0.669
+    ],
+    [
+     12.37,
+     0.569
+    ],
+    [
+     12.37,
+     0.32
+    ],
+    [
+     10.13,
+     0.32
+    ],
+    [
+     10.13,
+     5.139
+    ],
+    [
+     10.028,
+     5.24
+    ],
+    [
+     9.26,
+     5.24
+    ]
+   ]
+  },
+  {
+   "name": "Vestidor",
+   "area_m2": 2.43,
+   "outdoor": false,
+   "polygon": [
+    [
+     11.12,
+     3.39
+    ],
+    [
+     11.14,
+     5.06
+    ],
+    [
+     12.74,
+     5.06
+    ],
+    [
+     12.74,
+     3.89
+    ],
+    [
+     12.27,
+     3.89
+    ],
+    [
+     12.17,
+     3.79
+    ],
+    [
+     12.17,
+     3.39
+    ]
+   ]
+  },
+  {
+   "name": "Baño 1",
+   "area_m2": 3.96,
+   "outdoor": false,
+   "polygon": [
+    [
+     11.14,
+     5.19
+    ],
+    [
+     11.14,
+     5.61
+    ],
+    [
+     11.17,
+     5.64
+    ],
+    [
+     11.15,
+     6.75
+    ],
+    [
+     12.99,
+     6.75
+    ],
+    [
+     13.02,
+     6.72
+    ],
+    [
+     13.05,
+     6.75
+    ],
+    [
+     13.72,
+     6.75
+    ],
+    [
+     13.73,
+     5.19
+    ],
+    [
+     13.05,
+     5.19
+    ],
+    [
+     13.02,
+     5.22
+    ],
+    [
+     12.99,
+     5.19
+    ]
+   ]
+  },
+  {
+   "name": "Distribuidor",
+   "area_m2": 4.96,
+   "outdoor": false,
+   "polygon": [
+    [
+     9.26,
+     5.24
+    ],
+    [
+     9.2,
+     5.3
+    ],
+    [
+     9.15,
+     5.25
+    ],
+    [
+     3.49,
+     5.25
+    ],
+    [
+     3.49,
+     6.12
+    ],
+    [
+     9.15,
+     6.12
+    ],
+    [
+     9.2,
+     6.07
+    ],
+    [
+     9.26,
+     6.12
+    ],
+    [
+     9.282,
+     6.12
+    ],
+    [
+     9.282,
+     5.24
+    ]
+   ]
+  },
+  {
+   "name": "Vestíbulo",
+   "area_m2": 6.69,
+   "outdoor": false,
+   "polygon": [
+    [
+     0.88,
+     5.24
+    ],
+    [
+     0.88,
+     7.6
+    ],
+    [
+     2.21,
+     7.61
+    ],
+    [
+     2.31,
+     7.71
+    ],
+    [
+     2.3,
+     8.39
+    ],
+    [
+     3.38,
+     8.39
+    ],
+    [
+     3.38,
+     7.72
+    ],
+    [
+     3.33,
+     7.67
+    ],
+    [
+     3.38,
+     7.61
+    ],
+    [
+     3.38,
+     5.24
+    ]
+   ]
+  },
+  {
+   "name": "Salón-comedor",
+   "area_m2": 22.58,
+   "outdoor": false,
+   "polygon": [
+    [
+     3.49,
+     6.35
+    ],
+    [
+     3.48,
+     7.89
+    ],
+    [
+     4.0,
+     7.89
+    ],
+    [
+     4.1,
+     7.99
+    ],
+    [
+     4.1,
+     10.13
+    ],
+    [
+     9.63,
+     10.13
+    ],
+    [
+     9.63,
+     6.23
+    ],
+    [
+     4.1,
+     6.23
+    ],
+    [
+     4.1,
+     6.27
+    ],
+    [
+     4.0,
+     6.37
+    ]
+   ]
+  },
+  {
+   "name": "Terraza cubierta",
+   "area_m2": 11.83,
+   "outdoor": true,
+   "polygon": [
+    [
+     9.906,
+     7.367
+    ],
+    [
+     9.906,
+     10.312
+    ],
+    [
+     13.924,
+     10.312
+    ],
+    [
+     13.924,
+     7.367
+    ]
+   ]
+  }
+ ],
+ "validation": {
+  "sum_rooms_m2": 103.01,
+  "official_util_m2": 102.81,
+  "error_pct": 0.19,
+  "kitchen_alcove_m": 3.93,
+  "kitchen_design_oak_m": 3.93,
+  "kitchen_note": "ajustada a la cota de Oak Studio (3.930); el plano vectorial daba 3.848, diferencia repartida 41 mm en cada extremo"
+ },
+ "pending": [
+  "altura real de techo (2,50 m supuesta)",
+  "antepechos estimados por foto: confirmar con cinta"
+ ],
+ "walls": [
+  {
+   "id": "w0",
+   "start": [
+    0.775,
+    0.187
+   ],
+   "end": [
+    4.75,
+    0.187
+   ],
+   "thickness_m": 0.251,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w1",
+   "start": [
+    10.001,
+    0.194
+   ],
+   "end": [
+    12.495,
+    0.194
+   ],
+   "thickness_m": 0.252,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w2",
+   "start": [
+    12.495,
+    0.545
+   ],
+   "end": [
+    12.875,
+    0.545
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w3",
+   "start": [
+    0.175,
+    0.554
+   ],
+   "end": [
+    0.775,
+    0.554
+   ],
+   "thickness_m": 0.208,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w4",
+   "start": [
+    4.75,
+    1.186
+   ],
+   "end": [
+    10.078,
+    1.186
+   ],
+   "thickness_m": 0.253,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w5",
+   "start": [
+    7.225,
+    1.585
+   ],
+   "end": [
+    7.565,
+    1.585
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w6",
+   "start": [
+    2.74,
+    2.175
+   ],
+   "end": [
+    4.75,
+    2.175
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w7",
+   "start": [
+    3.075,
+    2.515
+   ],
+   "end": [
+    4.835,
+    2.515
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w8",
+   "start": [
+    11.07,
+    3.345
+   ],
+   "end": [
+    12.295,
+    3.345
+   ],
+   "thickness_m": 0.09,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w9",
+   "start": [
+    12.295,
+    3.415
+   ],
+   "end": [
+    12.875,
+    3.415
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w10",
+   "start": [
+    12.295,
+    3.765
+   ],
+   "end": [
+    12.875,
+    3.765
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w11",
+   "start": [
+    0.175,
+    4.649
+   ],
+   "end": [
+    0.798,
+    4.649
+   ],
+   "thickness_m": 0.122,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w12",
+   "start": [
+    12.875,
+    5.058
+   ],
+   "end": [
+    13.863,
+    5.058
+   ],
+   "thickness_m": 0.265,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w13",
+   "start": [
+    2.74,
+    5.115
+   ],
+   "end": [
+    3.075,
+    5.115
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w14",
+   "start": [
+    7.332,
+    5.125
+   ],
+   "end": [
+    7.558,
+    5.125
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w15",
+   "start": [
+    11.085,
+    5.125
+   ],
+   "end": [
+    12.875,
+    5.125
+   ],
+   "thickness_m": 0.11,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w16",
+   "start": [
+    0.762,
+    5.19
+   ],
+   "end": [
+    10.078,
+    5.19
+   ],
+   "thickness_m": 0.11,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w17",
+   "start": [
+    3.434,
+    6.182
+   ],
+   "end": [
+    9.767,
+    6.182
+   ],
+   "thickness_m": 0.096,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w18",
+   "start": [
+    9.767,
+    6.248
+   ],
+   "end": [
+    10.119,
+    6.248
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w19",
+   "start": [
+    9.767,
+    6.88
+   ],
+   "end": [
+    13.863,
+    6.88
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w20",
+   "start": [
+    9.767,
+    7.242
+   ],
+   "end": [
+    13.994,
+    7.242
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w21",
+   "start": [
+    0.762,
+    7.723
+   ],
+   "end": [
+    2.179,
+    7.723
+   ],
+   "thickness_m": 0.237,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w22",
+   "start": [
+    3.434,
+    8.015
+   ],
+   "end": [
+    3.975,
+    8.015
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w23",
+   "start": [
+    2.179,
+    8.545
+   ],
+   "end": [
+    3.505,
+    8.545
+   ],
+   "thickness_m": 0.31,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w24",
+   "start": [
+    3.975,
+    10.259
+   ],
+   "end": [
+    9.767,
+    10.259
+   ],
+   "thickness_m": 0.258,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w25",
+   "start": [
+    9.767,
+    10.382
+   ],
+   "end": [
+    14.049,
+    10.382
+   ],
+   "thickness_m": 0.14,
+   "exterior": true,
+   "type": "railing",
+   "height_m": 1.05
+  },
+  {
+   "id": "w26",
+   "start": [
+    0.175,
+    0.554
+   ],
+   "end": [
+    0.175,
+    4.649
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w27",
+   "start": [
+    0.762,
+    5.19
+   ],
+   "end": [
+    0.762,
+    7.723
+   ],
+   "thickness_m": 0.236,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w28",
+   "start": [
+    0.775,
+    0.187
+   ],
+   "end": [
+    0.775,
+    0.554
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w29",
+   "start": [
+    0.798,
+    4.649
+   ],
+   "end": [
+    0.798,
+    6.14
+   ],
+   "thickness_m": 0.177,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w30",
+   "start": [
+    2.179,
+    7.723
+   ],
+   "end": [
+    2.179,
+    8.545
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w31",
+   "start": [
+    2.74,
+    0.187
+   ],
+   "end": [
+    2.74,
+    5.115
+   ],
+   "thickness_m": 0.261,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w32",
+   "start": [
+    3.075,
+    2.515
+   ],
+   "end": [
+    3.075,
+    5.115
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w33",
+   "start": [
+    3.434,
+    5.19
+   ],
+   "end": [
+    3.434,
+    8.015
+   ],
+   "thickness_m": 0.108,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w34",
+   "start": [
+    3.505,
+    8.015
+   ],
+   "end": [
+    3.505,
+    8.545
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w35",
+   "start": [
+    3.975,
+    8.015
+   ],
+   "end": [
+    3.975,
+    10.259
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w36",
+   "start": [
+    4.75,
+    0.187
+   ],
+   "end": [
+    4.75,
+    2.515
+   ],
+   "thickness_m": 0.255,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w37",
+   "start": [
+    4.835,
+    2.515
+   ],
+   "end": [
+    4.835,
+    5.19
+   ],
+   "thickness_m": 0.1,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w38",
+   "start": [
+    7.225,
+    1.186
+   ],
+   "end": [
+    7.225,
+    1.585
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w39",
+   "start": [
+    7.332,
+    4.569
+   ],
+   "end": [
+    7.332,
+    5.125
+   ],
+   "thickness_m": 0.155,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w40",
+   "start": [
+    7.445,
+    1.585
+   ],
+   "end": [
+    7.445,
+    5.125
+   ],
+   "thickness_m": 0.09,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w41",
+   "start": [
+    7.565,
+    1.186
+   ],
+   "end": [
+    7.565,
+    1.585
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w42",
+   "start": [
+    7.558,
+    4.579
+   ],
+   "end": [
+    7.558,
+    5.125
+   ],
+   "thickness_m": 0.135,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w43",
+   "start": [
+    9.767,
+    6.182
+   ],
+   "end": [
+    9.767,
+    10.382
+   ],
+   "thickness_m": 0.272,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w44",
+   "start": [
+    10.001,
+    0.194
+   ],
+   "end": [
+    10.001,
+    1.186
+   ],
+   "thickness_m": 0.257,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w45",
+   "start": [
+    10.078,
+    1.186
+   ],
+   "end": [
+    10.078,
+    5.19
+   ],
+   "thickness_m": 0.095,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w46",
+   "start": [
+    11.07,
+    3.345
+   ],
+   "end": [
+    11.07,
+    3.948
+   ],
+   "thickness_m": 0.1,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w47",
+   "start": [
+    11.085,
+    5.125
+   ],
+   "end": [
+    11.085,
+    6.88
+   ],
+   "thickness_m": 0.13,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w48",
+   "start": [
+    12.295,
+    3.345
+   ],
+   "end": [
+    12.295,
+    3.765
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w49",
+   "start": [
+    12.495,
+    0.194
+   ],
+   "end": [
+    12.495,
+    0.545
+   ],
+   "thickness_m": 0.25,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w50",
+   "start": [
+    12.875,
+    0.545
+   ],
+   "end": [
+    12.875,
+    5.125
+   ],
+   "thickness_m": 0.269,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w51",
+   "start": [
+    13.863,
+    5.058
+   ],
+   "end": [
+    13.863,
+    6.88
+   ],
+   "thickness_m": 0.275,
+   "exterior": true,
+   "type": "wall"
+  },
+  {
+   "id": "w52",
+   "start": [
+    13.994,
+    7.242
+   ],
+   "end": [
+    13.994,
+    10.437
+   ],
+   "thickness_m": 0.14,
+   "exterior": true,
+   "type": "railing",
+   "height_m": 1.05
+  },
+  {
+   "id": "w53",
+   "start": [
+    9.27,
+    5.19
+   ],
+   "end": [
+    9.27,
+    6.182
+   ],
+   "thickness_m": 0.1,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w54",
+   "start": [
+    6.454,
+    4.509
+   ],
+   "end": [
+    6.454,
+    5.19
+   ],
+   "thickness_m": 0.076,
+   "exterior": false,
+   "type": "wall"
+  },
+  {
+   "id": "w55",
+   "start": [
+    8.446,
+    4.509
+   ],
+   "end": [
+    8.446,
+    5.19
+   ],
+   "thickness_m": 0.076,
+   "exterior": false,
+   "type": "wall"
+  }
+ ],
+ "openings": [
+  {
+   "type": "window",
+   "wall": "w0",
+   "center_from_start_m": 0.986,
+   "width_m": 1.3,
+   "sill_m": 1.0,
+   "head_m": 2.2,
+   "room": "Cocina"
+  },
+  {
+   "type": "window",
+   "wall": "w0",
+   "center_from_start_m": 2.987,
+   "width_m": 1.602,
+   "sill_m": 1.0,
+   "head_m": 2.2,
+   "room": "Tendedero"
+  },
+  {
+   "type": "window",
+   "wall": "w4",
+   "center_from_start_m": 1.5,
+   "width_m": 1.501,
+   "sill_m": 1.0,
+   "head_m": 2.2,
+   "room": "Dormitorio 1"
+  },
+  {
+   "type": "window",
+   "wall": "w4",
+   "center_from_start_m": 4.102,
+   "width_m": 1.501,
+   "sill_m": 1.0,
+   "head_m": 2.2,
+   "room": "Dormitorio 2"
+  },
+  {
+   "type": "window",
+   "wall": "w1",
+   "center_from_start_m": 1.437,
+   "width_m": 1.75,
+   "sill_m": 0.1,
+   "head_m": 2.2,
+   "room": "Dormitorio ppal.",
+   "note": "2 hojas abatibles, fijo inferior"
+  },
+  {
+   "type": "window",
+   "wall": "w24",
+   "center_from_start_m": 4.831,
+   "width_m": 1.001,
+   "sill_m": 1.0,
+   "head_m": 2.2,
+   "room": "Salón-comedor"
+  },
+  {
+   "type": "window",
+   "wall": "w51",
+   "center_from_start_m": 0.609,
+   "width_m": 0.5,
+   "sill_m": 1.2,
+   "head_m": 2.2,
+   "room": "Baño 1"
+  },
+  {
+   "type": "sliding_door",
+   "wall": "w43",
+   "center_from_start_m": 2.513,
+   "width_m": 2.2,
+   "sill_m": 0.0,
+   "head_m": 2.2,
+   "room": "Salón-comedor",
+   "to": "Terraza cubierta"
+  },
+  {
+   "type": "door",
+   "wall": "w16",
+   "center_from_start_m": 0.656,
+   "width_m": 0.792,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Cocina",
+   "to": "Vestíbulo",
+   "hinge": "end"
+  },
+  {
+   "type": "door",
+   "wall": "w31",
+   "center_from_start_m": 0.727,
+   "width_m": 0.849,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Cocina",
+   "to": "Tendedero",
+   "hinge": "start"
+  },
+  {
+   "type": "door",
+   "wall": "w16",
+   "center_from_start_m": 3.476,
+   "width_m": 0.69,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Baño 2",
+   "to": "Distribuidor",
+   "hinge": "end"
+  },
+  {
+   "type": "door",
+   "wall": "w16",
+   "center_from_start_m": 6.139,
+   "width_m": 0.691,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Dormitorio 1",
+   "to": "Distribuidor",
+   "hinge": "end"
+  },
+  {
+   "type": "door",
+   "wall": "w16",
+   "center_from_start_m": 7.162,
+   "width_m": 0.691,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Dormitorio 2",
+   "to": "Distribuidor",
+   "hinge": "start"
+  },
+  {
+   "type": "door",
+   "wall": "w33",
+   "center_from_start_m": 0.483,
+   "width_m": 0.691,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Vestíbulo",
+   "to": "Distribuidor",
+   "hinge": "end"
+  },
+  {
+   "type": "double_door",
+   "wall": "w33",
+   "center_from_start_m": 1.713,
+   "width_m": 1.131,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Vestíbulo",
+   "to": "Salón-comedor",
+   "leaves": [
+    0.715,
+    0.416
+   ],
+   "note": "acristalada"
+  },
+  {
+   "type": "entry_door",
+   "wall": "w27",
+   "center_from_start_m": 1.528,
+   "width_m": 0.824,
+   "sill_m": 0,
+   "head_m": 2.1,
+   "room": "Vestíbulo",
+   "to": "rellano",
+   "hinge": "end"
+  },
+  {
+   "type": "door",
+   "wall": "w53",
+   "center_from_start_m": 0.483,
+   "width_m": 0.691,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Distribuidor",
+   "to": "Dormitorio ppal.",
+   "hinge": "end"
+  },
+  {
+   "type": "door",
+   "wall": "w47",
+   "center_from_start_m": 0.534,
+   "width_m": 0.691,
+   "sill_m": 0,
+   "head_m": 2.03,
+   "room": "Dormitorio ppal.",
+   "to": "Baño 1",
+   "hinge": "start"
+  }
+ ],
+ "notes": {
+  "walls": "start/end = eje del muro; thickness_m = grosor total",
+  "openings": "center_from_start_m medido sobre el eje desde start; width_m = hueco (hoja en puertas)",
+  "closets": "nichos de armario empotrado: forman parte del área de la estancia pero no son suelo libre para amueblar"
+ },
+ "fixtures": [
+  {
+   "id": "cocina_oak",
+   "type": "kitchen",
+   "room": "Cocina",
+   "source": "cocina.pdf p.3 — Oak Studio, opción Premium C2",
+   "run_length_m": 3.93,
+   "back_face": "x=4.218 (pdf), módulos de norte (lado ventana) a sur (frigorífico junto al vestíbulo), fondo hacia el este",
+   "modules": [
+    {
+     "name": "relleno",
+     "width_m": 0.05,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      0.658
+     ],
+     "to": [
+      0.288,
+      0.708
+     ]
+    },
+    {
+     "name": "bajo extraíble",
+     "width_m": 0.15,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      0.708
+     ],
+     "to": [
+      0.288,
+      0.858
+     ]
+    },
+    {
+     "name": "lavavajillas integrado",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      0.858
+     ],
+     "to": [
+      0.288,
+      1.458
+     ]
+    },
+    {
+     "name": "bajo fregadero",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      1.458
+     ],
+     "to": [
+      0.288,
+      2.058
+     ]
+    },
+    {
+     "name": "bajo",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      2.058
+     ],
+     "to": [
+      0.288,
+      2.658
+     ]
+    },
+    {
+     "name": "bajo placa inducción",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      2.658
+     ],
+     "to": [
+      0.288,
+      3.258
+     ]
+    },
+    {
+     "name": "bajo cajones",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      3.258
+     ],
+     "to": [
+      0.288,
+      3.858
+     ]
+    },
+    {
+     "name": "relleno",
+     "width_m": 0.03,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      3.858
+     ],
+     "to": [
+      0.288,
+      3.888
+     ]
+    },
+    {
+     "name": "costado",
+     "width_m": 0.019,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      3.888
+     ],
+     "to": [
+      0.288,
+      3.907
+     ]
+    },
+    {
+     "name": "columna frigorífico integrado",
+     "width_m": 0.6,
+     "depth_m": 0.6,
+     "height_m": 2.2,
+     "from": [
+      0.288,
+      3.907
+     ],
+     "to": [
+      0.288,
+      4.507
+     ]
+    },
+    {
+     "name": "relleno",
+     "width_m": 0.081,
+     "depth_m": 0.6,
+     "height_m": 0.9,
+     "from": [
+      0.288,
+      4.507
+     ],
+     "to": [
+      0.288,
+      4.588
+     ]
+    }
+   ],
+   "heights_note": "altura de encimera 0,90 y columna 2,20 estimadas"
+  }
+ ],
+ "closets": [
+  {
+   "id": "arm_d1",
+   "room": "Dormitorio 1",
+   "polygon": [
+    [
+     4.881,
+     4.509
+    ],
+    [
+     6.416,
+     4.509
+    ],
+    [
+     6.416,
+     5.159
+    ],
+    [
+     4.881,
+     5.159
+    ]
+   ],
+   "width_m": 1.535,
+   "depth_m": 0.65,
+   "front": "norte",
+   "front_opening_m": 1.399,
+   "height_m": "suelo a techo",
+   "fixed": true
+  },
+  {
+   "id": "arm_d2",
+   "room": "Dormitorio 2",
+   "polygon": [
+    [
+     8.484,
+     4.509
+    ],
+    [
+     10.044,
+     4.509
+    ],
+    [
+     10.044,
+     5.159
+    ],
+    [
+     8.484,
+     5.159
+    ]
+   ],
+   "width_m": 1.56,
+   "depth_m": 0.65,
+   "front": "norte",
+   "front_opening_m": 1.399,
+   "height_m": "suelo a techo",
+   "fixed": true
+  },
+  {
+   "id": "arm_vest",
+   "room": "Vestíbulo",
+   "polygon": [
+    [
+     2.3,
+     7.664
+    ],
+    [
+     3.38,
+     7.664
+    ],
+    [
+     3.38,
+     8.39
+    ],
+    [
+     2.3,
+     8.39
+    ]
+   ],
+   "width_m": 1.08,
+   "depth_m": 0.726,
+   "front": "norte",
+   "front_opening_m": 0.901,
+   "height_m": "suelo a techo",
+   "fixed": true
+  },
+  {
+   "id": "arm_suite",
+   "room": "Dormitorio ppal.",
+   "polygon": [
+    [
+     10.186,
+     6.15
+    ],
+    [
+     11.039,
+     6.15
+    ],
+    [
+     11.039,
+     6.8
+    ],
+    [
+     10.186,
+     6.8
+    ]
+   ],
+   "width_m": 0.853,
+   "depth_m": 0.65,
+   "front": "norte",
+   "front_opening_m": 0.853,
+   "height_m": "suelo a techo",
+   "fixed": true
+  }
+ ]
+}

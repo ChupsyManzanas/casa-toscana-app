@@ -1,0 +1,1 @@
+import{b as r}from"./index-Sxxu_09I.js";import{f as i,c as f,o as a}from"./View3D-BIxKv7hZ.js";const S=()=>{const n=i(s=>s.showScans),o=f(s=>s.nodes);return r.useEffect(()=>{(a.byType.scan||new Set).forEach(t=>{const c=a.nodes.get(t),e=o[t];c&&(e==null?void 0:e.type)==="scan"&&(c.visible=n&&e.visible)})},[o,n]),null};export{S as default};

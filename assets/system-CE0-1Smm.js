@@ -1,0 +1,1 @@
+import{b as r}from"./index-Sxxu_09I.js";import{f as u,o as t}from"./View3D-BIxKv7hZ.js";const c=()=>{const e=u(s=>s.showGuides);return r.useEffect(()=>{(t.byType.guide||new Set).forEach(i=>{const o=t.nodes.get(i);o&&(o.visible=e)})},[e]),null};export{c as default};

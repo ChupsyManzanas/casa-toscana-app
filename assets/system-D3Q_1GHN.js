@@ -1,0 +1,1 @@
+import{j as o}from"./index-Sxxu_09I.js";import{d5 as t}from"./View3D-BIxKv7hZ.js";import{g as r}from"./glazed-geometry-QopxNmM7.js";function a(){return o.jsx(t,{geometryAdapter:r})}export{a as default};

@@ -1,0 +1,1 @@
+import{b as l,j as t}from"./index-Sxxu_09I.js";import{u as i,N as o,e as n}from"./View3D-BIxKv7hZ.js";const f=({node:e})=>{const s=l.useRef(null);i(e.id,e.type,s);const a=n(e,"level");return t.jsx("group",{ref:s,visible:e.visible!==!1,...a,children:e.children.map(r=>t.jsx(o,{nodeId:r},r))})};export{f as LevelRenderer,f as default};
